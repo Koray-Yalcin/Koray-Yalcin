@@ -92,5 +92,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=koray-yalcin&show_icons=true&locale=en&layout=compact" alt="koray-yalcin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koray-yalcin&" alt="koray-yalcin" /></p>
